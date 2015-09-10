@@ -1,0 +1,12 @@
+*** PROJECT DOCUMENTATION ***
+
+- Supports iOS 8.0 and above.
+- Universal application, supports iPhone 4s and later, and iPads.
+- Requires UIKit and Foundation frameworks.
+- Test coverage info here.
+- Builds with Xcode 7 beta 6.
+- Requires Swift 2.0.
+
+
+*** Notes ***
+

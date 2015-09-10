@@ -14,6 +14,7 @@
 		B73FA3211BA13ECC005785C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B73FA31F1BA13ECC005785C1 /* LaunchScreen.storyboard */; };
 		B73FA32C1BA13ECC005785C1 /* TopCoder_Camera_IntegrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73FA32B1BA13ECC005785C1 /* TopCoder_Camera_IntegrationTests.swift */; };
 		B73FA3371BA13ECC005785C1 /* TopCoder_Camera_IntegrationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73FA3361BA13ECC005785C1 /* TopCoder_Camera_IntegrationUITests.swift */; };
+		B73FA3451BA13FB4005785C1 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = B73FA3441BA13FB4005785C1 /* ReadMe.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B73FA3321BA13ECC005785C1 /* TopCoder Camera IntegrationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TopCoder Camera IntegrationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B73FA3361BA13ECC005785C1 /* TopCoder_Camera_IntegrationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopCoder_Camera_IntegrationUITests.swift; sourceTree = "<group>"; };
 		B73FA3381BA13ECC005785C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B73FA3441BA13FB4005785C1 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		B73FA3151BA13ECC005785C1 /* TopCoder Camera Integration */ = {
 			isa = PBXGroup;
 			children = (
+				B73FA3441BA13FB4005785C1 /* ReadMe.txt */,
 				B73FA3161BA13ECC005785C1 /* AppDelegate.swift */,
 				B73FA3181BA13ECC005785C1 /* ViewController.swift */,
 				B73FA31A1BA13ECC005785C1 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				B73FA3211BA13ECC005785C1 /* LaunchScreen.storyboard in Resources */,
 				B73FA31E1BA13ECC005785C1 /* Assets.xcassets in Resources */,
+				B73FA3451BA13FB4005785C1 /* ReadMe.txt in Resources */,
 				B73FA31C1BA13ECC005785C1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -399,6 +403,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "TopCoder Camera Integration/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.doug-harper.TopCoder-Camera-Integration";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -410,6 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "TopCoder Camera Integration/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.doug-harper.TopCoder-Camera-Integration";
 				PRODUCT_NAME = "$(TARGET_NAME)";
