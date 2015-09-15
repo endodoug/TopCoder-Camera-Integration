@@ -32,3 +32,6 @@ TODO: Write history
 
 [Creating a Camera Application with Swift](https://youtu.be/GJFHWsbTvR8) on YouTube.
 
+## Screenshot
+![screenshot](https://github.com/endodoug/TopCoder-Camera-Integration/blob/master/images/Simulator%20Screen%20Shot%20Sep%2015%2C%202015%2C%205.10.52%20PM.png)
+
