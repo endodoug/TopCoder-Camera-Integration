@@ -3,10 +3,14 @@
 - Supports iOS 8.0 and above.
 - Universal application, supports iPhone 4s and later, and iPads.
 - Requires UIKit and Foundation frameworks.
-- Test coverage info here.
-- Builds with Xcode 7 beta 6.
+- Builds with Xcode 7.
 - Requires Swift 2.0.
 
 
 *** Notes ***
 
+The provided solution uses a single class:
+* ViewController - manages the view from a storyboard to provide the user interface.
+* The temperature slider and disposition buttons are inactive, as per challenge instructions.
+* User can choose and image from the device photos or choose the camera to take an image.
+* Autolayout constraints are implemented to insure the app looks good on all devices.  
